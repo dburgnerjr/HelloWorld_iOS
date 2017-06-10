@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					23A63F5D1EEC890B003B14DA = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = JEGM3HZ27P;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,7 +261,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = JEGM3HZ27P;
 				INFOPLIST_FILE = "HelloWorld-iOS/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "dburgnerjr.HelloWorld-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -272,7 +275,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = JEGM3HZ27P;
 				INFOPLIST_FILE = "HelloWorld-iOS/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "dburgnerjr.HelloWorld-iOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
